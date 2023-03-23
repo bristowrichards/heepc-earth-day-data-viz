@@ -1,0 +1,361 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,1.968840019664354,3.639603650257168,0.9359097478989564
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,1.8482035538426382,3.085660837724322,1.0098126526264324
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,1.9046362840496052,3.302830899134249,0.9931566020382534
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,64.37397261549579,83.58020530974161,45.27606234037361
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,51.56028557070049,65.7166028527005,38.77989090867885
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,58.030686012125734,73.4416554781891,42.93156052464625
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,43.58746855273429,62.14563338957603,28.086668201179886
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,44.95009854219908,59.29390809581074,31.73150155849399
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,44.27807107908118,59.98326835032258,30.66268593259044
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,93.83672564906554,117.91376042347267,69.76657228897594
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,73.51537176900104,91.56007456954485,56.30576053232639
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,83.26730313739226,103.52201635423185,64.10362441535622
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,1.606523976007044,3.074084676584851,0.7355747226230441
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,1.5474724300541278,2.682139385658762,0.807712073859455
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,1.575137341758931,2.8195641728547156,0.7910910564121569
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,41.940681883351544,58.80179464236205,26.88870419465282
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,43.36564950183404,57.574728447899794,30.52356722389165
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,42.662510997292735,57.13704472262704,29.36646701695354
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,2.1247928364487834,3.8610374821009996,1.0403492348883918
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,1.988700871884876,3.2711882070157494,1.1057739889559626
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,2.052315415873205,3.5005386689093454,1.1039521549255271
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,94.82909269880017,118.14930023148327,70.88527424509073
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,74.03798377575696,91.91869388898661,56.74837781262901
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,84.00649010165496,104.25141475218796,64.74341926480817
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,45.18404011554899,64.12500811364436,29.300470392887924
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,46.57632298201359,60.6476142045408,32.78785513341632
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,45.890130323221065,61.24743970801743,32.08938228382322
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,1.7852755747591347,3.364921990856881,0.8321373477163428
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,1.6890279388382694,2.881853995468816,0.9029482165380814
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,1.7340856747255196,3.056508545523391,0.8899983962982245
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,96.97694192428656,121.96327782633037,72.13599569499421
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,75.17561309857955,93.45094985615289,57.46923483060202
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,85.62157463249567,106.83957444228675,65.87270243701434
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,1.3431140441286025,2.6515567871469745,0.570592395954779
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,1.3048271098012976,2.3441467875770887,0.6254450952446908
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,1.3227890241829325,2.463102429183324,0.6252168849847937
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,65.35298174987909,84.77251405212073,45.33514320963761
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,52.45089905907725,66.98399727175091,38.97647180403507
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,58.9654540494041,74.69562748712117,43.57952301606042
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,59.55898454471041,77.46833353257878,41.593311400574706
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,47.89205295041375,60.94431914892618,35.77375711995945
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,53.77397735947724,68.10489666346457,39.70823663149888
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,1.4612083009221055,2.835850588021834,0.6451794558421683
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,1.415014896760784,2.487803165913234,0.7090963689511697
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,1.436671030915915,2.6181840687752413,0.6981125423937534
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,59.53962515875448,77.8591984027842,41.96194863556483
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,47.74473554226384,60.325763441628354,36.007405831740826
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,53.67961419854562,67.80776029259319,39.74564931622211
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,95.92103161710759,120.85217947098013,71.8921413646755
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,74.49925697720798,93.0763898770357,57.32334830456866
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1991,84.7635597418427,105.8902752254229,65.2534900760107
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,62.09345458551897,80.95390321310049,43.10610363482317
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,50.049630383414815,63.443605912708996,37.6661681287822
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1993,56.12911247354542,70.51157099763631,41.568997410091804
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,63.09128244295257,82.06384124319035,44.91216248486421
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,51.19749263041,65.45973973846459,38.194354230265084
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1992,57.20279117909848,72.40979762857279,42.60180167250415
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,0.9055153419060203,1.8684018077902866,0.350899661968485
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,0.9108769922198775,1.739096188016735,0.3941845501311446
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,0.9083527840833717,1.7814106050741778,0.3883502437858144
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,61.1015111341389,79.45210932569078,42.8974959446714
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,48.91185983358936,62.347124039426454,36.67760980266044
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,55.06180535781459,69.60083911311338,40.54132552794616
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,46.997901550583364,66.27869069414592,30.215662153071058
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,48.467403427842825,63.42099136954847,34.0212802865524
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1990,47.74372547398092,63.769168129247035,33.01797342600579
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,1.20193901598603,2.3970594009149675,0.5001006815810651
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,1.1874237140031236,2.155627220420896,0.5583063725951181
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,1.1942388483477684,2.2729447778965883,0.5508317148507862
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,34.88269497051632,50.64308387932757,22.025323592412295
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,34.528776178356644,46.08380138192566,24.03409526430119
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,34.70335814729723,48.132955219136555,23.71605033671588
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,36.99823478697793,53.60571301947001,23.340996072538648
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,36.77582178188099,48.862378837031706,25.729584739780698
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,36.8855711041059,50.45750352001659,24.929833039989692
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,38.69724630521906,55.60769434813919,24.49562489782753
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,38.68469475864393,50.92780667870825,27.50181026705259
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,38.690889701734505,52.73881414563164,26.412364091262376
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,90.20902707373823,113.17470284260983,67.63178430191405
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,71.51209675946153,89.24988898166805,54.887944514844605
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,80.49368449276915,100.66796190431938,61.91488769462746
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,53.04775223059535,69.86487456076955,36.57040548516844
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,44.014200551989816,55.41352451127296,33.0490953459488
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,48.53924596511742,61.86948386760658,35.510725321344346
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,91.71933950333204,115.14692086894685,69.36798743887286
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,72.26969496625458,89.9060981759838,55.362689934454544
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1995,81.60794377415871,101.11471436160214,62.9727901943136
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,88.57264356960671,110.69978492837777,66.9830948463388
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,70.41812864444762,87.37780399127783,54.22343541268847
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,79.14345394348784,98.2402785156778,60.87331665696513
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,40.16646594729992,57.275294318811,25.684965915819387
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,41.17577769561227,54.09694019312271,29.157748890168428
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,40.67761620439119,55.406433147014845,27.99965847769051
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,29.370753848107974,44.33757840623038,17.892449315755606
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,28.585358348918582,39.08549957532461,19.512274428764904
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,28.971501246534924,41.389122731694556,19.133361100814415
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,1.0859227733382448,2.1873266820236896,0.44033633225904467
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,1.084722864389436,1.9937020108590038,0.5045284370714601
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1997,1.085286765891027,2.0848160046788413,0.4874261057797363
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,0.6312481879437734,1.3308008439838492,0.2304616334751218
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,0.6519735258661403,1.3154391893944473,0.2641762704684277
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,0.6421826242206685,1.304841313085583,0.24988502688370437
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,92.56527294308371,115.43046713337084,69.45454689148626
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,72.89153605374389,90.59296960644423,56.233446213193865
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1994,82.33507866240137,102.46687934101003,63.52271916265489
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,81.24114965406409,102.41779165397605,60.65628251789118
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,67.18522380055262,83.46594599651273,52.31931678094336
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,73.94663654134295,92.25234943504836,56.95858832197044
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,57.85173629022889,75.57797001182801,40.957148036771024
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,47.0919041018204,59.30556623491274,35.12516258849234
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,52.49983989661409,66.0300487985381,38.67345529708825
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,59.010239361089226,76.4787483655702,41.6574225208716
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,47.43367158611814,59.89538152271041,35.72266359724009
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1996,53.26482973375987,66.95184692858099,39.38745236815114
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,31.612231702554876,47.29491427426661,19.384907382021943
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,30.956586457414538,42.03776946403956,21.605520619718316
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,31.279535511507806,44.00973013478419,20.862705106667157
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,85.23795445058762,107.21241592566247,63.680591554619035
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,69.1342827338914,86.48769115423954,53.26122542836444
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,76.87716673011776,96.18594971922805,58.91263350652678
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,33.15078200677763,48.92532286528976,20.598321821522696
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,32.27075813845488,43.52380067309817,22.223753483994667
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,32.70455888741205,45.510503811379856,21.82546628837548
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,0.9880957796674814,2.022187579516761,0.3931624335217066
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,0.9892559648844412,1.836294718445412,0.4447189914165167
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,0.988710220351853,1.9086167930654994,0.43314084689458127
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,24.705779380309156,37.56954778802923,14.629425737564485
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,23.66897414442872,32.896071983782335,15.76065392739038
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,24.177223430495594,34.84345960307616,15.438918378239737
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,0.8026873685064154,1.6686279912662756,0.30514611919189144
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,0.821928479813605,1.5988355055524448,0.3465915090725414
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,0.8128623070440321,1.5998717464563141,0.3375853812710041
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,74.23381397650373,92.96562305848248,55.66000120153917
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,63.691453374733236,78.76291175644214,49.33582134677707
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,68.76814110496579,85.73441244197893,53.04669764739314
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,83.40375021661589,105.06479956349116,62.12288447412175
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,68.29415487690794,85.00678100729219,53.11293321748626
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,75.5596712598172,94.321111928545,58.17596302823317
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,55.04155187856275,72.17830500135561,38.00198113946617
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,45.595115869751396,57.71521572663275,34.25495360096823
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1999,50.3376933762406,63.45633096134196,36.5574093562054
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,46.494815102605656,62.090053540720945,32.01876321131089
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,38.79939342030588,49.16777510955539,28.742025399760532
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,42.639704206791414,54.84701133141994,30.97791168754969
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,87.11713749720445,108.6222244317173,65.25206869944812
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,69.84021392985511,87.2293658052074,53.79034964448814
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,1998,78.14665783550984,97.27864278200627,59.756047086761
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,54.02724216176954,70.86281920859817,37.215978814265306
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,44.469719463109506,56.37189924008118,32.92647977427666
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,49.26265902480272,62.53976238931655,35.96820060438807
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,0.48385843404762197,1.0734234040648387,0.16805709043597178
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,0.502757502232112,1.0573846418725905,0.18772510304956472
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,0.4937891272535293,1.0332016469795104,0.18063028183438845
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,30.63057078027085,45.58591837076767,18.520161690226807
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,29.936181571749884,40.58556448757605,20.567486283260923
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2000,30.277885314821095,42.74540193444991,19.913022557744558
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,0.7360891486014326,1.537631851597308,0.2771377772832164
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,0.7542961396699489,1.481630810272289,0.3129756999000142
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2001,0.7457098888126508,1.4844849767605308,0.3078094915602619
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,42.065107281699675,57.04781273301292,28.306762339991085
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,34.589875493732386,44.254276667820285,25.336457145618223
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,38.30904638138419,49.78220693698178,27.63314122674569
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,28.29664912272469,42.909420493276194,17.153683492444554
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,27.617426462104486,38.12242810199059,18.82684137160285
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,27.95109257226619,39.816588811840575,18.3675164846078
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,68.09210456450374,85.61981671742052,50.23256161018027
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,59.498901282421684,73.66164056350091,46.1570815635133
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,63.63661488879101,78.90841681240593,48.876389021526
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,0.6789287298490853,1.4244299057418819,0.24945362840207158
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,0.6951775975353572,1.3751696650903296,0.28507191343513727
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,0.6875080334909285,1.3846043821793856,0.2772478783216928
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,77.58739939252837,97.25281078590467,58.191708388525925
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,65.40382829258246,80.99279150430033,50.58590606602566
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,71.26924923921548,89.1206747935971,54.90860623103209
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,17.859573966518763,28.76191976332362,10.271334719444923
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,16.59256024586043,24.534846047758766,10.505394186251168
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,17.212503517244254,26.21726363107495,10.498779947426089
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,79.18642877528501,99.70628096568566,59.3460023094313
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,66.23830896518034,82.30964702686651,51.20596133004517
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,72.46999687275392,90.3105543842937,55.84391081629081
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,50.164171251318976,66.81810285049,34.40369892065813
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,41.403430559767315,52.48613320526434,30.82180438907333
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,45.782994867907306,58.583984135181566,33.63731445951876
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,0.36036217304582707,0.808800271291788,0.11753680968120811
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,0.39046128177097833,0.8476661325282532,0.14086981552144365
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,0.3761004108914281,0.810206978688604,0.12986987438401915
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,47.346157679173395,63.3438812514438,32.50247910714328
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,39.19725637738428,50.10978498714024,29.16808674867658
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,43.26717813072902,55.64276649138695,31.239119520972334
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,27.12861002196335,40.80207610417769,16.381338585627564
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,26.602930326200436,36.75406330585376,18.10806522044724
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2003,26.86097468152931,38.380072535439396,17.694318385675263
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,51.79846317909546,68.75488615967154,36.1146794884775
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,43.33094962355969,54.852749345551835,32.27559068798276
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2002,47.56806365450713,60.91358885631215,34.893666942998905
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,34.41015744986437,48.00884511482105,22.449613251194563
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,30.20944540091173,39.56821633417439,21.705429024912917
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,32.2930106569626,43.31227088318357,22.543715263195192
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,13.485424758549534,22.245004560145645,7.2777293649689145
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,12.067716648980202,18.45764202411472,7.175543318646949
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,12.759816203240687,20.025516035460885,7.39627516570679
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,61.108887216156916,77.92382770886418,44.942639394053884
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,54.237047708367335,67.37827860527698,41.483886905993195
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,57.544498963006305,72.27271980404578,43.801937251857424
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,26.21857813249208,39.488077236588786,15.54336253065249
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,25.393363050683206,35.345886185403344,17.14968164255064
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,25.79816917711629,36.503816843159605,16.687515944179747
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,0.5891289106887888,1.2596603688285872,0.20951758951178687
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,0.6054112843727768,1.2403439401563048,0.2378403267112483
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,0.5977123490861664,1.216236229019009,0.23005875164017223
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,0.5534714487934956,1.2044085795191812,0.1955153651282732
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,0.570438148484474,1.1768331913901817,0.21949349470656487
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2005,0.5624079018618664,1.1678894752297133,0.21171181538549752
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,76.00770884197853,95.09662877349186,57.00907331653525
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,64.73844860720789,79.97083537020315,50.157001731277354
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2004,70.16464934065353,87.55669325405425,54.033378488361336
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,0.28499970017434095,0.6684665857915452,0.08764392024138333
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,0.31944128503977265,0.7174338201382727,0.10849552284417172
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,0.30293424729578156,0.6706795790259182,0.09992194250020409
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,0.5156419362963691,1.1407829743532285,0.1813927637833117
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,0.5312660142560095,1.1080644252128413,0.20254479592496435
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,0.5238625090102677,1.0868384165604181,0.19594435856793022
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,45.10649155198397,60.86723433136043,30.738108891971997
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,37.655615083006836,47.84526833694647,27.984480101548172
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,41.368497497981366,53.86442239106276,29.892040750363048
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,72.69574419416105,90.90263164346929,54.39047777247611
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,62.71465541935128,77.98064013375894,48.73261848099273
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,67.5207320734645,84.36144192031605,52.09869570411053
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,45.95949377700718,61.00490932840738,31.729505693136982
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,38.57020472839534,49.01705325350388,28.668105083995794
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,42.25508251149246,54.311130239830604,30.481680228240762
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,28.21269855702645,40.66030957955362,18.00394600982137
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,26.514826007549456,35.15852716307059,18.173603919405878
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,27.355125885837097,37.45362681679041,18.747476914690417
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,19.08382559307703,29.94200309790486,11.057032616723848
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,17.882102362549677,25.350890088176335,11.553197378882706
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,18.470439549448894,27.24108706706178,11.581598308689582
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,10.512635843520421,18.445191210466213,5.215571660288579
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,9.58117523994326,15.450492257265845,5.325989146939316
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,10.034779154689579,16.59778849965872,5.36090906719644
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,55.50360288885597,71.85404473318975,40.47137629508449
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,50.04044858509963,62.83845679097377,38.148364086149364
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,52.669227355154085,66.24477304964674,39.80714425923494
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,20.451115550689842,31.545483677413735,11.962147062078689
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,19.48568178338445,27.65400090967372,12.802870459105995
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,19.95852582595052,29.306619107382307,12.678535861521407
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,0.4469347300633838,1.0042007181179626,0.15356470968224534
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,0.467393576978219,0.980628302078076,0.1716414861924176
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,0.45766889273497025,0.9690579366953336,0.16521418612497835
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,69.61660950714473,87.15800371832468,51.675774896126946
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,60.617227600832905,74.90842676651133,46.92774741151185
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,64.95071867410564,80.71692757546717,49.91250095651705
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,0.3848058754596088,0.8659680113254512,0.12768578480343892
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,0.4112381961879207,0.8821249857902299,0.14904969198347204
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,0.3986415722917921,0.8518953539574133,0.1398901236086706
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,0.41488006594211607,0.9306614700223518,0.14059821478645804
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,0.44274739739313984,0.9428189941693657,0.16142916582859035
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2009,0.42948165268081184,0.9104567202342277,0.15305079980354366
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,71.05823626360952,88.69851266415287,52.91621378771821
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,61.60703042276565,76.45924044029522,47.744401795692134
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2007,66.15790559075481,82.22938607436113,50.9269286902362
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,0.22704842141476342,0.5331252381622154,0.06499591665091214
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,0.2631763071365372,0.5959875432939612,0.08224682760977704
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,0.2458078737281582,0.559735118657652,0.07665668746324943
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,22.348154560256365,33.99564249629439,13.192839102249637
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,21.484274671559646,30.167534462722557,14.242842398219766
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2006,21.907532164071096,31.857901190286647,13.864280735571475
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,40.2202115504428,55.236113384984876,27.089057349072235
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,33.19471725917196,42.58996849805932,24.2186522838413
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,36.68735420518834,48.053125425128954,26.4198964611175
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,14.55484226902381,24.39182156799192,7.793029609199884
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,13.051523122973832,19.49125506438639,7.974476834271814
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,13.78586561926309,21.861796130868182,8.067996322679889
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,15.676193145936157,26.073098727144263,8.566464280221137
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,14.384529343683557,21.6686267386806,8.844367715172337
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,15.015812679378547,23.437819030989985,8.853911745306155
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,63.10185061981963,79.96116377038433,46.48242305153907
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,55.72784133189922,69.04575659981793,42.83234714598131
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,59.27726763126905,74.17175680723861,45.23414119801034
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,44.18530173529209,59.64980912230365,29.7879548618486
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,36.61739532763307,47.05059619722499,27.03065358482804
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2008,40.385688078376894,52.588021800747335,29.092997865993283
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,0.3398591689238189,0.7678741321195243,0.1090743166488412
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,0.37263453210086717,0.8168830894505206,0.13203327797646042
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,0.3569760285649703,0.7756261436804497,0.12264348057671846
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,64.86894721253019,81.95223335381618,47.501515663430524
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,57.050110477861466,70.37075303702218,44.201871022912556
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,60.81392657188543,75.72957245952358,46.58320841613779
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,0.3163350196383891,0.7250596821453075,0.10032941047281438
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,0.35116741746997726,0.7773397067599233,0.1229758814571646
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2013,0.3345067912204937,0.7307574007269068,0.11386026768294638
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,16.827209904753715,27.33726036207181,9.397671377578458
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,15.502713913427433,22.829533336127245,9.631275921997302
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,16.15041053714365,24.628143427982316,9.686108201535852
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,36.360201515614854,50.841323535703744,24.14994552812661
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,31.400759661294416,40.57036360752259,22.76372083132431
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2012,33.862437322050134,44.95665439549122,24.153471358770126
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,38.35318892221103,52.66610682454578,25.538783974336255
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,32.31020262006107,41.56138836820329,23.465942709718153
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2011,35.312023033166426,46.449404612560784,25.19968846956055
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,32.189770214832016,45.44298504125123,20.846055308330282
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,28.979406642071638,38.091920572801705,20.625806903207884
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,30.57070243351344,41.17103219589362,21.181352836427852
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,11.761140693727198,20.061970366964033,6.040952797480104
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,10.489600356725573,16.35511219627933,6.016489853185414
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,11.109638179026149,18.018722987566495,6.194343828642484
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,66.43755077701705,83.53563282715874,49.15780253271978
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,58.234895014772114,71.7451570577821,45.04553040996917
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2010,62.1840478430782,77.08086214985208,47.80503586553729
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,57.80915184321337,74.31251714742965,42.02821618825933
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,51.8050943730446,65.21828307898848,39.50042806718177
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,54.69371301307141,68.89521964874825,41.38680716620587
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,0.26793147581236637,0.6258920235218123,0.08183394126538923
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,0.29859309010644636,0.6792385025248426,0.0975749435056385
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,0.28388332050095044,0.6416466578467108,0.093195702266598
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,12.548238383747572,21.004826469560363,6.595777408877447
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,11.26943167298146,17.438391744729888,6.580287311871619
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,11.89340244372,18.85736523721855,6.768006995472107
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,30.399234676657386,43.763387669827765,19.452585160156335
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,28.261887414229566,37.70321897336012,19.942715613711876
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2015,29.32072690729399,39.6459962363339,20.339016574266996
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,59.262115380597315,76.34153469020823,43.4052056215029
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,52.84459473846859,65.74045755042192,40.25993632510136
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,55.93274718441911,70.31743649368542,42.30913173272583
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,29.175569613904138,42.12928051793469,18.48260420333555
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,27.324866705751468,36.08941484327001,19.004206345327965
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,28.24124550365796,38.40364862522682,19.27374959248408
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,0.29520048643457975,0.6829091643814417,0.09185573267078483
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,0.3307050214465446,0.7478148315673822,0.11365728694774799
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2014,0.3137055642985751,0.6931857367120884,0.10504394698108384
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,11.173233002016394,19.449934109159397,5.700049076445101
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,10.03185897914536,15.936279910278982,5.737656719985358
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,10.588049986249791,17.418696875828623,5.900705161987907
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,52.796047653028424,68.46198295404521,37.994813028153864
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,47.98033080618501,60.160452777452875,36.696129912176204
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,50.298576930659785,63.61569190260612,37.658941152472536
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,56.62314236691109,72.91482446546158,40.76813578262118
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,50.86676863349202,63.623922120748304,38.74685706537707
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2016,53.63622797819709,67.4802748748487,40.54265565186278
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,9.679269433842885,17.138888334770286,4.559241797796264
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,8.988399111163732,14.61704682876295,4.892080071845745
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,9.324648904645896,15.703091492575759,4.859194037435059
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,0.25553968347671846,0.6042364664856115,0.07679974290356555
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,0.28755555096140384,0.6490700170236988,0.09356282134362477
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2017,0.27218382673286423,0.6198897459306639,0.08719692314373788
+1,Deaths,44575,World Bank High Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,0.24287508199274557,0.5761345241969387,0.07252693180969283
+1,Deaths,44575,World Bank High Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,0.27719026053017876,0.6411208675519222,0.08709839151019452
+1,Deaths,44575,World Bank High Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,0.2607041565575201,0.5952027792652151,0.08184273605441937
+1,Deaths,44578,World Bank Low Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,54.35732599924455,70.53209117816571,39.317979293710366
+1,Deaths,44578,World Bank Low Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,49.13425286096474,61.50721296257475,37.540075602870985
+1,Deaths,44578,World Bank Low Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,51.64799738364001,65.17059020346585,38.9905123704172
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,25.46329958387066,37.42975951068565,15.775343818332944
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,24.391360779682174,33.424138048994045,16.530820473138018
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,24.92137543752415,34.78037758551527,16.69057263863909
+1,Deaths,44576,World Bank Upper Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,8.789325342646313,15.89614544059616,3.951226160185756
+1,Deaths,44576,World Bank Upper Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,8.266316679125046,13.705473537367805,4.272840601090059
+1,Deaths,44576,World Bank Upper Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2019,8.520742992047367,14.54467240175559,4.301351241942811
+1,Deaths,44577,World Bank Lower Middle Income,1,Male,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,27.06131586819792,39.338627784277655,16.994520042441632
+1,Deaths,44577,World Bank Lower Middle Income,2,Female,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,25.609118992643662,34.322305983891695,17.69849599775508
+1,Deaths,44577,World Bank Lower Middle Income,3,Both,37,20+ years,294,All causes,87,Household air pollution from solid fuels,3,Rate,2018,26.32748608201399,36.26786873661047,17.723881302521363
